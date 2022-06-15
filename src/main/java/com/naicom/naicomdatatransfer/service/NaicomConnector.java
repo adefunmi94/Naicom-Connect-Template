@@ -34,7 +34,7 @@ public class NaicomConnector {
         dataGroup.setGroupName("Basic Info");
         dataGroup.setGroupTag(0);
         dataGroup.setGroupCount(0);
-        basicAttArray.add(new AttArray("Type", "304"));
+        basicAttArray.add(new AttArray("TypeID", "304"));
         basicAttArray.add(new AttArray("CoverageStartDate", "7/4/2020 12:00:00 AM"));
         basicAttArray.add(new AttArray("CoverageEndDate", "7/4/2021 12:00:00 AM"));
         basicAttArray.add(new AttArray("PolicyInternalID", "aiico1201"));
